@@ -12,3 +12,4 @@ G:\machine Learning\Machine-Learning\obj\Debug\net8.0\refint\Machine-Learning.dl
 G:\machine Learning\Machine-Learning\obj\Debug\net8.0\Machine-Learning.pdb
 G:\machine Learning\Machine-Learning\obj\Debug\net8.0\Machine-Learning.genruntimeconfig.cache
 G:\machine Learning\Machine-Learning\obj\Debug\net8.0\ref\Machine-Learning.dll
+G:\machine Learning\Machine-Learning\obj\Debug\net8.0\Machine-Learning.sourcelink.json
